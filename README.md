@@ -1,6 +1,6 @@
 # neko
 
-A new Flutter project app that will be just for simple code lerning and testing all the features in a simple way.
+A new Flutter project app that will have some anime and manga stuff on it all in one app.
 
 ## Getting Started
 
