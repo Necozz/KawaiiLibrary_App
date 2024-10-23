@@ -1,0 +1,1 @@
+ /Users/nemanjan/Documents/GitHub/KawaiiLibrary_App/.dart_tool/flutter_build/042cb08e42dfa49b2c8d8d60122a5eda/native_assets.yaml: 
